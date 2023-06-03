@@ -17,7 +17,7 @@
 
 <div align="center">
 <sub>This Food Website project is created by
-<a href="https://github.com/ValentineFernandes](https://github.com/Kinzs2001">Valentine Fernandes </a>
+<a href="<https://github.com/Kinzs2001">PIYUSH SAXENA </a>
 </sub>
 </div>
 
