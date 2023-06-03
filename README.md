@@ -2,7 +2,7 @@
 
 <p align="center">	 
 
-  <img alt="GitHub Forks" src="https://img.shields.io/github/forks/ValentineFernandes/Food-Website?color=#1AD043" />
+  
   <img alt="Stars" src= "https://img.shields.io/github/stars/ValentineFernandes/Food-Website?color=#1AD043" />
   <img alt="Repo size" src="https://img.shields.io/github/repo-size/ValentineFernandes/Food-Website?color=#1AD043" />
 <img alt= "Watchers" src="https://img.shields.io/github/watchers/ValentineFernandes/Food-Website?color=#1AD043" />
